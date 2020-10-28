@@ -1,4 +1,4 @@
-# Hi! I'm Duo Incure but I go by Duo
+# Hi! I'm Duo Incure!
 
 I am currently learning C#, however I also have experience in JavaScript and PHP.
 
