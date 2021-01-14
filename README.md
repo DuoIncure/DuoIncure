@@ -8,4 +8,8 @@ You can also email me at <duooincurr@gmail.com>.
 
 ![DuoIncure's github stats](https://github-readme-stats.vercel.app/api?username=DuoIncure&count_private=true&show_icons=true&theme=dark)
 
+## Featured Repositories
 [![ComplexUpgradeUI](https://github-readme-stats.vercel.app/api/pin/?username=DuoIncure&repo=ComplexUpgradeUI)](https://github.com/DuoIncure/ComplexUpgradeUI) [![ComplexTags](https://github-readme-stats.vercel.app/api/pin/?username=DuoIncure&repo=ComplexTags)](https://github.com/DuoIncure/ComplexTags)
+
+## My Top Languages (Github Repositories)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DuoIncure&layout=compact)](https://github.com/DuoIncure)
