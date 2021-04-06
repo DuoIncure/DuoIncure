@@ -1,6 +1,7 @@
 # Hi! I'm Duo!
 
-I am currently learning C#, however I also have experience in JavaScript and PHP.
+I am currently learning C#, however I am also currently using JavaScript and PHP for many projects.  
+I am hoping to learn more languages in the future like Java and Go.
 
 ## How to Contact
 You can contact me via [Discord](https://discord.com/ "Your Place to Talk and Hang Out"). My Discord User and Tag is `Duo Incure#2046`.  
