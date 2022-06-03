@@ -7,7 +7,9 @@ I am a PHP developer focussed on [PocketMine-MP](https://github.com/pmmp/PocketM
 You can contact me via [Discord](https://discord.com/). My Discord User and Tag is `Duo Incure#7838`.  
 You can also email me at <duoincuredev@gmail.com>.
 
+<!--
 ## My Stats
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=DuoIncure&count_private=true&show_icons=true&theme=monokai" />
 </p>
+-->
